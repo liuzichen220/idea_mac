@@ -1,0 +1,14 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="userMacSet">
+          <set>
+            <option value="00-1C-42-00-00-09" />
+            <option value="F4-5C-89-AC-25-F9" />
+          </set>
+        </option>
+      </Profile>
+    </option>
+  </component>
+</application>

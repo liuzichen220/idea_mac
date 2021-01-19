@@ -1,0 +1,23 @@
+<templateSet group="user">
+  <template name="/*" value="/*&#10;  Eigpay.com Inc.&#10;  Copyright (c) 2013-$YEAR$ All Rights Reserved.&#10; */" shortcut="ENTER" description="Copyright" toReformat="false" toShortenFQNames="true">
+    <variable name="YEAR" expression="date(&quot;YYYY&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cha" value="/**&#10; * &#10; * @author liuzc&#10; * @version  $NAME$.java, v 0.1 $DATE$ $TIME$ liuzc Exp&#10; */" shortcut="ENTER" description="class header" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="td" value="//LZCTODO:$date$ $todo$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

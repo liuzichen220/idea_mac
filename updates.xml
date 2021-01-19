@@ -1,0 +1,33 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="182.4129.33" />
+      <item value="extras;google;google_play_services#49" />
+      <item value="extras;google;instantapps#1.5.0" />
+      <item value="extras;google;m2repository#58" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#7.3.2" />
+      <item value="platform-tools#28.0.1" />
+      <item value="system-images;android-23;google_apis;x86#30" />
+      <item value="tools#26.1.1" />
+      <item value="extras;google;instantapps#1.9.0" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#7.5.1" />
+      <item value="platform-tools#29.0.4" />
+      <item value="emulator#30.0.12" />
+      <item value="platform-tools#30.0.1" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-201.7223.91" />
+    <option name="LAST_TIME_CHECKED" value="1610941798923" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
