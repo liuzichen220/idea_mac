@@ -14,6 +14,9 @@
   <action id="ActivateProblemsToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="EditMenu">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
