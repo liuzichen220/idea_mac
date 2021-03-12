@@ -1,19 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="${*};*.hprof;*.iml;*.log;*.path_IS_UNDEFINED;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.data;.git;.gitattributes;.gitignore;.gradle;.hg;.idea;.project;.settings;.svn;CVS;D:;__pycache__;_svn;build;ehcache;local.properties;logs;mngFront;payment-dubbo;rebel.xml;release;target;tmp;tomcat.*;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="${*};*.iml;*.log;*.path_IS_UNDEFINED;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.data;.git;.gitattributes;.gitignore;.gradle;.hg;.idea;.project;.settings;.svn;CVS;D:;__pycache__;_svn;build;ehcache;local.properties;logs;mngFront;payment-dubbo;rebel.xml;release;target;tmp;tomcat.*;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping pattern=".boringignore" approved="true" type="Darcs file" />
-      <removed_mapping ext="boringignore" approved="true" type="Darcs file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".pom.xml.swp" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint file" />
-      <removed_mapping ext="stylelintignore" approved="true" type="StyleLint file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="boringignore" approved="true" type="Darcs file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="stylelintignore" approved="true" type="StyleLint file" />
-      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint file" />
       <removed_mapping pattern=".boringignore" approved="true" type="Darcs file" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint file" />
     </extensionMap>
   </component>
 </application>
